@@ -4,7 +4,7 @@ This is a solution to my Portfolio Project With Bootstrap WEB2CVII TEAM 1
 
 ## Overview
 
-This project facilitated by WEB3BRIDGE and supervised by @Adetutu777.
+This project was facilitated by WEB3BRIDGE and supervised by @Adetutu777.
 
 **To task was achieved with HTML, CSS and Bootstrap.**
 
@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Screenshots
 
-![](./)
-![](./)
+![](./assets/images/Screenshot%202022-09-06%20at%2017-22-15%20Portfolio%20Website.png)
+![](./assets/images/mobile.png)
 
 ### Links
 
@@ -44,7 +44,6 @@ Users should be able to:
 ### What I learned
 
 - CSS and Efficient use of Bootstrap
-
 ## Acknowledgments
 
 Thanks to my mentor @Adetutu777 and @WEB3BRIDGE for this opportunity.
