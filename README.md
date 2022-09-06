@@ -35,6 +35,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Bootstrap
+- AOS-Animation
 
 ### Tools
 
@@ -44,6 +45,7 @@ Users should be able to:
 ### What I learned
 
 - CSS and Efficient use of Bootstrap
+- AOS Animation
 ## Acknowledgments
 
 Thanks to my mentor @Adetutu777 and @WEB3BRIDGE for this opportunity.
