@@ -29,7 +29,9 @@
         height: 100%;
         width: 100%;
         scroll-behavior: smooth;
+        scroll-snap-type:y;
         text-align: center;
+        justify-content: center;
         }
         .project-part{
             display: flex;
@@ -43,6 +45,11 @@
     .center-content {
     max-width: 900px;
     margin: 0 auto;
+    }
+    @media (max-width: 800px) {
+        html, body{
+            overflow-x: hidden;
+        }
     }
 </style>
 </head>
